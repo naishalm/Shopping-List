@@ -20,3 +20,5 @@ This app adds additional functionality on top of the app, adding modals for data
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-22 at 14 22 37](https://github.com/naishalm/Shopping-List/assets/161668395/79b421e2-07e5-41e8-9354-dee0d8cbb5ff)
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-24 at 18 40 24](https://github.com/naishalm/Shopping-List/assets/161668395/4baa6d39-ed83-472b-ba89-43147b8dfc0c)
+
